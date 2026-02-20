@@ -1,0 +1,13 @@
+{
+  "FolderOrderSettings":[
+    {"name":"objects","order":2,"path":"folders/objects.yy",},
+    {"name":"sprite","order":1,"path":"folders/sprite.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"Object3","order":2,"path":"objects/Object3/Object3.yy",},
+    {"name":"oSlime","order":1,"path":"objects/oSlime/oSlime.yy",},
+    {"name":"oSolid","order":3,"path":"objects/oSolid/oSolid.yy",},
+    {"name":"oSlime1","order":1,"path":"sprites/oSlime1/oSlime1.yy",},
+    {"name":"Sprite3","order":2,"path":"sprites/Sprite3/Sprite3.yy",},
+  ],
+}
